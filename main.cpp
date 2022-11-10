@@ -11,7 +11,7 @@ int main(){
     cout<<(a*b)<<endl;
     cout<<((a+b)*c)/2<<endl;
     
-    return0;
+    return 0;
 
 
 }
